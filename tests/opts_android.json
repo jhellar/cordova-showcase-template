@@ -5,6 +5,7 @@
     "platformVersion": "P",
     "deviceName": "Android Emulator",
     "autoWebview": true,
+    "fullReset": true,
     "app": "platforms/android/app/build/outputs/apk/debug/app-debug.apk"
   }
 }

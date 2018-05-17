@@ -6,7 +6,7 @@
     "deviceName": "iPhone 8",
     "automationName": "XCUITest",
     "autoWebview": true,
-    "noReset": true,
+    "fullReset": true,
     "app": "platforms/ios/build/emulator/cordova-showcase-template.app"
   }
 }
