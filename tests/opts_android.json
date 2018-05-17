@@ -2,7 +2,7 @@
   "port": 4723,
   "desiredCapabilities": {
     "platformName": "Android",
-    "platformVersion": "P",
+    "platformVersion": "8",
     "deviceName": "Android Emulator",
     "autoWebview": true,
     "fullReset": true,
