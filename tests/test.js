@@ -34,7 +34,7 @@ describe('Test for ' + opts.desiredCapabilities.platformName, function() {
     await client.pause(3000) // wait for initialization
       .click('.bar-button-menutoggle')
       .pause(1000)  // wait for animation
-      .click('button=Authentication')
+      .click('div=Authentication')
       .pause(1000)  // wait for animation
       .click('div=Authenticate')
       .pause(3000); // wait for new context
