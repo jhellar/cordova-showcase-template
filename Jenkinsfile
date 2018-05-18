@@ -67,5 +67,4 @@ if ( prLabels.contains("test/integration") ) {
       junit allowEmptyResults: true, testResults: 'tests/report*.xml'
     }
   }
-
 }
